@@ -1,2 +1,5 @@
-# DigitalHouse-Practice
-Practicing exercises for becoming a FullStack Web Developer 
+# DigitalHouse-Concesionaria
+DH_FullStack Web Developer
+--> Module #2 : CONCESIONARIA
+
+Final Excercise: Designing an app for a car dealership business.
